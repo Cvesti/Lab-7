@@ -15,9 +15,9 @@
 
 | Вариант | Сайт |
 | ------- | ---- |
-| 1 | hh.ru |
-| 2 | flickr.com/services/api/ |
-| 3 | getambee.com/api/natural-disasters |
+| 1 | hh.ru | - доступ не дали
+| 2 | flickr.com/services/api/ | - ПЛАТНО
+| 3 | getambee.com/api/natural-disasters | - ПЛАТНО
 | 4 | newsapi.org |
 | 5 | dictionaryapi.com |
 | 6 | steamcommunity.com/dev|
